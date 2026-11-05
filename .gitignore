@@ -1,0 +1,36 @@
+# Secrets
+.env
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# VS Code local settings
+.vscode/
+
+# Backup versions - preserve locally
+*backup*
+* copy*
+*_old*
+*before*
+
+# Generated datasets and intermediate files
+clinical_trials.csv
+cleaned_clinical_trials.csv
+clinical_trial_chunks.csv
+clinical_trial_chunks.json
+insulin_related_trials.csv
+
+# Embeddings and vector database
+*.npy
+*.index
+
+# Evaluation outputs
+*_results.csv
+*_summary.csv
+retrieval_debug_results.csv
+rag_evidence_evaluation_baseline.csv
+claim_verification_raw_responses.txt
+rag_answer_evaluation_v1.txt

@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+requests
+sentence-transformers
+faiss-cpu
+groq
+python-dotenv
+scikit-learn

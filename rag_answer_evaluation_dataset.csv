@@ -1,0 +1,546 @@
+﻿Query_ID,Condition,Question,Retrieved_Count,Retrieved_NCT_IDs,Retrieved_Titles,Generated_Answer,Faithfulness_Score,Answer_Relevance_Score,Factual_Correctness_Score,Completeness_Score,Safety_Score,Evaluation_Notes
+RAG_Q1,Type 2 Diabetes,Find clinical trials related to insulin therapy and blood glucose control in Type 2 Diabetes.,5,NCT00994266; NCT03244241; NCT00282451; NCT01498367; NCT00543751,"Efficacy of Diamel in the Treatment of Type 2 Diabetic Patients Receiving Insulin Therapy | Basal-bolus Insulin Therapy With Insulin Degludec and Insulin Aspart Versus Standard Therapy for the Inpatient Management of Type 2 Diabetes: the IDA2 Study | Comparison of Biphasic Insulin Aspart 30 Twice Daily With Biphasic Insulin Aspart 30 Twice Daily Plus Lunchtime Injection of Insulin Aspart, in Combination With or Without Metformin (for Both Treatment Groups) in Subjects With Type 2 Diabetes. A Multi-center, Randomized, Open-labeled, Two-armed Parallel Group Trial in Subjects With Type 2 Diabetes Previously Treated With Conventional Biphasic Human Insulin 30/70 | Renewing Health RCT for the Evaluation of Life-long Tele-monitoring of Patients With Diabetes Mellitus Type 2 in Central Greece | Placebo Controlled Metformin and Sulfonylurea Combination Study in Patients With Type 2 Diabetes (0767-025)","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Type 2 Diabetes
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+**Overview of Trials on Insulin Therapy & Blood‑Glucose Control in Type 2 Diabetes**
+
+| NCT ID | Title | Actual Condition(s) | Recruitment Status | Study Type | Phase | Age Range | Sex | Key Findings (from supplied text) |
+|--------|-------|---------------------|--------------------|------------|-------|-----------|-----|-----------------------------------|
+| **NCT00994266** | *Efficacy of Diamel in the Treatment of Type 2 Diabetic Patients Receiving Insulin Therapy* | Type 2 Diabetes | COMPLETED | INTERVENTIONAL | PHASE3 | 40–65 yrs | ALL | Assessed daily insulin needs, fasting/post‑prandial glucose, HbA1c, lipids over 24 weeks in 116 patients. |
+| **NCT03244241** | *Basal‑bolus Insulin Therapy With Insulin Degludec and Insulin Aspart Versus Standard Therapy for the Inpatient Management of Type 2 Diabetes: the IDA2 Study* | Type 2 Diabetes Mellitus | UNKNOWN | INTERVENTIONAL | PHASE4 | 18–90 yrs | ALL | Comparison of basal‑bolus degludec/aspart vs standard inpatient therapy. |
+| **NCT00282451** | *Comparison of Biphasic Insulin Aspart 30 Twice Daily With Biphasic Insulin Aspart 30 Twice Daily Plus Lunchtime Injection of Insulin Aspart, in Combination With or Without Metformin…* | Diabetes; Diabetes Mellitus, Type 2 | COMPLETED | INTERVENTIONAL | PHASE4 | 18 yrs (both min & max) | ALL | Evaluated glycemic control of biphasic aspart regimens ± metformin in patients previously on biphasic 30/70 insulin. |
+| **NCT01498367** | *Renewing Health RCT for the Evaluation of Life‑long Tele‑monitoring of Patients With Diabetes Mellitus Type 2 in Central Greece* | Diabetes Mellitus, Type 2 | COMPLETED | INTERVENTIONAL | Not available | 18 yrs–(upper limit not provided) | ALL | Assessed whether centralized tele‑monitoring of blood glucose and blood pressure improves health and economic outcomes. |
+| **NCT00543751** | *Placebo Controlled Metformin and Sulfonylurea Combination Study in Patients With Type 2 Diabetes (0767‑025)* | Diabetes Mellitus, Type 2 | TERMINATED | INTERVENTIONAL | PHASE3 | 21–78 yrs | ALL | Compared MK0767 with metformin/sulfonylurea on blood‑glucose lowering; protocol details not publicly available. |
+
+**Notes**
+
+- All listed studies are *interventional*; none are observational.  
+- The “Actual Condition(s)” column reflects the disease(s) the trial was designed to study, while the “Searched Condition” (Type 2 Diabetes) was used to retrieve these records.  
+- Recruitment status is taken from the snapshot provided; it may have changed since the data were captured.  
+- Where the supplied text does not provide a phase, age range, or other detail, that information is marked as “Not available” or “Not provided.”  
+- No conclusions about patient suitability or clinical recommendations are made.
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT00994266
+Title: Efficacy of Diamel in the Treatment of Type 2 Diabetic Patients Receiving Insulin Therapy
+Actual Conditions: Type 2 Diabetes
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Age Range: 40 Years - 65 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00994266
+
+
+NCT ID: NCT03244241
+Title: Basal-bolus Insulin Therapy With Insulin Degludec and Insulin Aspart Versus Standard Therapy for the Inpatient Management of Type 2 Diabetes: the IDA2 Study
+Actual Conditions: Type 2 Diabetes Mellitus
+Recruitment Status: UNKNOWN
+Study Type: INTERVENTIONAL
+Phase: PHASE4
+Age Range: 18 Years - 90 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT03244241
+
+
+NCT ID: NCT00282451
+Title: Comparison of Biphasic Insulin Aspart 30 Twice Daily With Biphasic Insulin Aspart 30 Twice Daily Plus Lunchtime Injection of Insulin Aspart, in Combination With or Without Metformin (for Both Treatment Groups) in Subjects With Type 2 Diabetes. A Multi-center, Randomized, Open-labeled, Two-armed Parallel Group Trial in Subjects With Type 2 Diabetes Previously Treated With Conventional Biphasic Human Insulin 30/70
+Actual Conditions: Diabetes; Diabetes Mellitus, Type 2
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE4
+Age Range: 18 Years - 18 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00282451
+
+
+NCT ID: NCT01498367
+Title: Renewing Health RCT for the Evaluation of Life-long Tele-monitoring of Patients With Diabetes Mellitus Type 2 in Central Greece
+Actual Conditions: Diabetes Mellitus, Type 2
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 18 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT01498367
+
+
+NCT ID: NCT00543751
+Title: Placebo Controlled Metformin and Sulfonylurea Combination Study in Patients With Type 2 Diabetes (0767-025)
+Actual Conditions: Diabetes Mellitus, Type 2
+Recruitment Status: TERMINATED
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Age Range: 21 Years - 78 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00543751
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
+RAG_Q2,Breast Cancer,Find breast cancer clinical trials related to chemotherapy and treatment.,5,NCT00793377; NCT01289353; NCT01519700; NCT00003730; NCT00072319,"A Randomized, Multicenter, Open Phase III Study Comparing a Dose-Intensified 8 Week Schedule of Adriamycin and Docetaxel (ADOC) With a Sequential 24 Week Schedule of Adriamycin/Cyclophosphamide Followed by Docetaxel (AC-DOC) Regimen as Preoperative Therapy in Patients With Operable Carcinoma of the Breast (T2-3 N0-2 M0) | Phase I-II Study of Concurrent Adjuvant Systemic Therapy and Accelerated Radiotherapy (Over 3 Weeks) | A Randomized, Double-blind, Parallel-group, Multi-center Phase III Study Comparing the Efficacy and Safety of EP2006 and Neupogen in Breast Cancer Patients Treated With Myelosuppressive Chemotherapy | A Multicenter Randomized Trial, With Direct Individual Benefit, to Determine the Optimal Circadian Time of Vinorelbine Administration Combined With Chronomodulated Infusion of 5-Fluorouracil in Previously Treated Patients With Metastatic Breast Cancer | Pilot Study of Epirubicin and Cyclophosphamide Followed by Paclitaxel at 10-11 Days Interval for Women With Early Breast Carcinoma","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Breast Cancer
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+**Breast‑Cancer Chemotherapy Trials (Interventional, Completed)**  
+
+| NCT ID | Phase | Recruitment Status | Actual Condition(s) | Sex | Age | Key Intervention(s) | Brief Summary (from supplied text) |
+|--------|-------|--------------------|----------------------|-----|-----|---------------------|------------------------------------|
+| **NCT00793377** | Phase III | COMPLETED | Primary Breast Cancer | Female | ≥18 years (max age not listed) | Dose‑intensified 8‑week Adriamycin + Docetaxel (ADOC) vs. 24‑week Adriamycin/Cyclophosphamide + Docetaxel (AC‑DOC) pre‑operative therapy | Randomized comparison of two pre‑operative chemotherapy schedules in operable T2‑3 N0‑2 M0 breast cancer, with subsequent surgery, tamoxifen, and optional post‑operative chemotherapy. |
+| **NCT01289353** | Phase I/II | COMPLETED | Breast Cancer | Female | ≥18 years (max age not listed) | Concurrent adjuvant systemic therapy + accelerated radiotherapy (3 weeks) | Study to determine safety and effectiveness of combining chemotherapy with accelerated radiotherapy after breast surgery. |
+| **NCT01519700** | Phase III | COMPLETED | Chemotherapy‑Associated Neutropenia; Breast Cancer | Female | ≥18 years (max age not listed) | EP2006 vs. Neupogen in patients receiving myelosuppressive chemotherapy | Randomized, double‑blind, parallel‑group trial comparing EP2006 and Neupogen for neutropenia prevention in breast‑cancer patients undergoing myelosuppressive chemotherapy. |
+| **NCT00003730** | Phase not listed | COMPLETED | Breast Cancer | Female | Age not listed | Vinorelbine + 5‑Fluorouracil (chronomodulated) | Randomized trial evaluating vinorelbine plus fluorouracil in women with metastatic breast cancer previously treated with at least one chemotherapy regimen. |
+| **NCT00072319** | Phase II | COMPLETED | Breast Cancer | Female | ≥18 years (max age not listed) | Epirubicin + Cyclophosphamide → Paclitaxel (10‑11 day interval) | Pilot study of neoadjuvant or adjuvant epirubicin, cyclophosphamide, and paclitaxel in stage I‑III breast cancer. |
+
+### Notes
+
+- All trials listed are **interventional** studies; none are observational.  
+- Recruitment status is taken from the snapshot provided; the status may have changed since that snapshot.  
+- Information that is not present in the supplied context (e.g., maximum age, detailed eligibility criteria, specific outcomes) is **not available** in the collected data.  
+- The summaries above are limited to what is explicitly stated in the supplied trial context; no additional conclusions or suitability assessments are made.
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT00793377
+Title: A Randomized, Multicenter, Open Phase III Study Comparing a Dose-Intensified 8 Week Schedule of Adriamycin and Docetaxel (ADOC) With a Sequential 24 Week Schedule of Adriamycin/Cyclophosphamide Followed by Docetaxel (AC-DOC) Regimen as Preoperative Therapy in Patients With Operable Carcinoma of the Breast (T2-3 N0-2 M0)
+Actual Conditions: Primary Breast Cancer
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Age Range: 18 Years - Not available
+Sex: FEMALE
+Source: https://clinicaltrials.gov/study/NCT00793377
+
+
+NCT ID: NCT01289353
+Title: Phase I-II Study of Concurrent Adjuvant Systemic Therapy and Accelerated Radiotherapy (Over 3 Weeks)
+Actual Conditions: Breast Cancer
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE1; PHASE2
+Age Range: 18 Years - Not available
+Sex: FEMALE
+Source: https://clinicaltrials.gov/study/NCT01289353
+
+
+NCT ID: NCT01519700
+Title: A Randomized, Double-blind, Parallel-group, Multi-center Phase III Study Comparing the Efficacy and Safety of EP2006 and Neupogen in Breast Cancer Patients Treated With Myelosuppressive Chemotherapy
+Actual Conditions: Chemotherapy Associated Neutropenia; Breast Cancer
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Age Range: 18 Years - Not available
+Sex: FEMALE
+Source: https://clinicaltrials.gov/study/NCT01519700
+
+
+NCT ID: NCT00003730
+Title: A Multicenter Randomized Trial, With Direct Individual Benefit, to Determine the Optimal Circadian Time of Vinorelbine Administration Combined With Chronomodulated Infusion of 5-Fluorouracil in Previously Treated Patients With Metastatic Breast Cancer
+Actual Conditions: Breast Cancer
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: Not available - Not available
+Sex: FEMALE
+Source: https://clinicaltrials.gov/study/NCT00003730
+
+
+NCT ID: NCT00072319
+Title: Pilot Study of Epirubicin and Cyclophosphamide Followed by Paclitaxel at 10-11 Days Interval for Women With Early Breast Carcinoma
+Actual Conditions: Breast Cancer
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE2
+Age Range: 18 Years - Not available
+Sex: FEMALE
+Source: https://clinicaltrials.gov/study/NCT00072319
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
+RAG_Q3,Cardiovascular Diseases,Find clinical trials related to heart failure and cardiovascular treatment.,5,NCT02335801; NCT06731166; NCT00839228; NCT05134701; NCT06599229,"The TOSCA Registry: Epidemiology, Clinical and Prognostic Value of Hormonal and Metabolic Deficiencies in Chronic Heart Failure | Effectiveness of Video Monitoring and Care Transition for Heart Failure Patients (EVIT-HF): Randomized Clinical Trial | Randomised Double Blind Placebo Controlled Trial of Perhexiline in Heart Failure With Preserved Ejection Fraction Syndrome (HFpEF) | Dapagliflozin Post-Marketing Surveillance in Heart Failure Patients and Chronic Kidney Disease Patients | Myocardial Perfusion Abnormalities in Hypertrophic Cardiomyopathy","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Cardiovascular Diseases
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+**Overview of Retrieved Clinical Trials (Heart Failure & Cardiovascular Treatment)**  
+
+| NCT ID | Title | Actual Condition(s) | Study Type | Phase | Recruitment Status | Age Range | Sex | Key Summary (from supplied text) |
+|--------|-------|---------------------|------------|-------|--------------------|-----------|-----|----------------------------------|
+| **NCT02335801** | The TOSCA Registry: Epidemiology, Clinical and Prognostic Value of Hormonal and Metabolic Deficiencies in Chronic Heart Failure | Chronic Heart Failure | Observational | Not available | UNKNOWN | Minimum 18 Years | All | The study aims to determine whether metabolic alterations and anabolic deficiencies in chronic heart‑failure patients identify a subset with poor outcomes. |
+| **NCT06731166** | Effectiveness of Video Monitoring and Care Transition for Heart Failure Patients (EVIT‑HF) | Heart Failure With Reduced Ejection Fraction (HFrEF) | Interventional | Not available | COMPLETED | Minimum 18 Years | All | This randomized trial compares video‑guided monitoring with audio‑only monitoring to assess whether video improves self‑care and outcomes in heart‑failure patients after hospital discharge. |
+| **NCT00839228** | Randomised Double Blind Placebo Controlled Trial of Perhexiline in Heart Failure With Preserved Ejection Fraction Syndrome (HFpEF) | Diastolic Heart Failure | Interventional | PHASE2 | COMPLETED | Minimum 16 Years, Maximum 90 Years | All | A double‑blind, placebo‑controlled study evaluating perhexiline in patients with HFpEF. |
+| **NCT05134701** | Dapagliflozin Post‑Marketing Surveillance in Heart Failure Patients and Chronic Kidney Disease Patients | Heart Failure; Chronic Kidney Disease | Observational | Not available | COMPLETED | Minimum 19 Years | All | Post‑marketing surveillance of dapagliflozin use in patients with heart failure and chronic kidney disease. |
+| **NCT06599229** | Myocardial Perfusion Abnormalities in Hypertrophic Cardiomyopathy | Hypertrophic Cardiomyopathy (HCM) | Observational | Not available | ACTIVE_NOT_RECRUITING | Minimum 18 Years | All | Investigates whether myocardial microvascular perfusion improves after initiating cardiac myosin inhibitor therapy in HCM patients. |
+
+**Notes**
+
+- The recruitment status shown is a snapshot taken at the time of data retrieval; it may have changed since then.  
+- Phase information is only provided when supplied; otherwise it is listed as “Not available.”  
+- Age ranges are reported exactly as supplied; if a maximum age is not provided, it is noted as “Not available.”  
+- All trials include participants of all sexes.  
+- No clinical recommendations or eligibility determinations are made.
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT02335801
+Title: The TOSCA Registry: Epidemiology, Clinical and Prognostic Value of Hormonal and Metabolic Deficiencies in Chronic Heart Failure
+Actual Conditions: Chronic Heart Failure
+Recruitment Status: UNKNOWN
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 18 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT02335801
+
+
+NCT ID: NCT06731166
+Title: Effectiveness of Video Monitoring and Care Transition for Heart Failure Patients (EVIT-HF): Randomized Clinical Trial
+Actual Conditions: Heart Failure With Reduced Ejection Fraction (HFrEF)
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 18 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT06731166
+
+
+NCT ID: NCT00839228
+Title: Randomised Double Blind Placebo Controlled Trial of Perhexiline in Heart Failure With Preserved Ejection Fraction Syndrome (HFpEF)
+Actual Conditions: Diastolic Heart Failure
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE2
+Age Range: 16 Years - 90 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00839228
+
+
+NCT ID: NCT05134701
+Title: Dapagliflozin Post-Marketing Surveillance in Heart Failure Patients and Chronic Kidney Disease Patients
+Actual Conditions: Heart Failure; Chronic Kidney Disease
+Recruitment Status: COMPLETED
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 19 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT05134701
+
+
+NCT ID: NCT06599229
+Title: Myocardial Perfusion Abnormalities in Hypertrophic Cardiomyopathy
+Actual Conditions: Hypertrophic Cardiomyopathy (HCM)
+Recruitment Status: ACTIVE_NOT_RECRUITING
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 18 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT06599229
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
+RAG_Q4,Asthma,Find asthma clinical trials related to inhaled corticosteroid treatment.,5,NCT01171365; NCT03788057; NCT00670930; NCT01340209; NCT00217854,"Small Particle Inhaled Steroids in Refractory Steroid-responsive Asthma | Evaluation of the Usefulness of Induced Sputum Eosinophilia, eNO and Bronchial Hyperresponsiveness in Predicting the Failure of Inhaled Corticosteroids Dose Reduction in Children and Adolescents With Stable Asthma | A Randomized, Multi-center, Double-blind, Placebo-controlled, Parallel-group Trial to Explore the Effects of 78 Weeks Omalizumab Treatment Given as Add on Therapy on Markers of Airway Inflammation and Remodeling in Patients With Moderate to Severe Persistent Allergic Asthma Receiving Inhaled Corticosteroids and Long Acting Beta-agonists | A Phase III Randomised, Double-blind, Placebo-controlled, Parallel-group Trial to Evaluate Safety and Efficacy of Tiotropium Inhalation Solution Delivered Via Respimat Inhaler (2.5 and 5 µg Once Daily) Compared With Placebo Over 52 Weeks in Patients With Moderate to Severe Persistent Asthma | Mechanisms of Airway Inflammation: Natural Exacerbation of Asthma Induced by Glucocorticoid Withdrawal","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Asthma
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT01171365
+Title: Small Particle Inhaled Steroids in Refractory Steroid-responsive Asthma
+Actual Conditions: Asthma
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE4
+Age Range: 18 Years - 80 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT01171365
+
+
+NCT ID: NCT03788057
+Title: Evaluation of the Usefulness of Induced Sputum Eosinophilia, eNO and Bronchial Hyperresponsiveness in Predicting the Failure of Inhaled Corticosteroids Dose Reduction in Children and Adolescents With Stable Asthma
+Actual Conditions: Asthma Chronic
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 12 Years - 18 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT03788057
+
+
+NCT ID: NCT00670930
+Title: A Randomized, Multi-center, Double-blind, Placebo-controlled, Parallel-group Trial to Explore the Effects of 78 Weeks Omalizumab Treatment Given as Add on Therapy on Markers of Airway Inflammation and Remodeling in Patients With Moderate to Severe Persistent Allergic Asthma Receiving Inhaled Corticosteroids and Long Acting Beta-agonists
+Actual Conditions: Allergic Asthma
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE4
+Age Range: 18 Years - 75 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00670930
+
+
+NCT ID: NCT01340209
+Title: A Phase III Randomised, Double-blind, Placebo-controlled, Parallel-group Trial to Evaluate Safety and Efficacy of Tiotropium Inhalation Solution Delivered Via Respimat Inhaler (2.5 and 5 µg Once Daily) Compared With Placebo Over 52 Weeks in Patients With Moderate to Severe Persistent Asthma
+Actual Conditions: Asthma
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: PHASE3
+Age Range: 18 Years - 75 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT01340209
+
+
+NCT ID: NCT00217854
+Title: Mechanisms of Airway Inflammation: Natural Exacerbation of Asthma Induced by Glucocorticoid Withdrawal
+Actual Conditions: Asthma
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 18 Years - 60 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT00217854
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
+RAG_Q5,Alzheimer Disease,Find Alzheimer's disease clinical trials related to cognitive decline and treatment.,5,NCT06964230; NCT03657745; NCT05145881; NCT04619420; NCT07122856,"A Phase 2b/3 Randomized, Double-Blind, Placebo-Controlled Multi-Center Study to Evaluate the Safety and Efficacy of T3D-959 in Subjects With Mild-to-Moderate Alzheimer's Disease | An Observational Trial of Alzheimer's Disease Treatment With Combination of 40Hz Light and Cognitive Therapy | Evaluation of Clinical Effect of Probiotics in Alzheimer's Disease: a Randomized, Double-blind Clinical Trial | A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study With a Long-Term Extension Treatment Period to Assess the Efficacy and Safety of JNJ-63733657, an Anti-tau Monoclonal Antibody, in Participants With Early Alzheimer's Disease | Predictive Factors for Initial MMSE Score and Rapid Decline in Alzheimer's Disease Patients","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Alzheimer Disease
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+**Alzheimer’s Disease – Cognitive Decline & Treatment Trials (All Recruitment Statuses)**  
+
+| NCT ID | Study Type | Recruitment Status | Phase | Minimum Age | Maximum Age | Actual Conditions | Key Focus (as stated in the supplied text) |
+|--------|------------|--------------------|-------|-------------|-------------|-------------------|-------------------------------------------|
+| **NCT06964230** | Interventional (Randomized, Double‑Blind, Placebo‑Controlled) | NOT_YET_RECRUITING | PHASE2; PHASE3 | 50 | 90 | Alzheimer Disease | Phase 2b/3 trial of oral T3D‑959 in mild‑to‑moderate AD, assessing safety, efficacy, and disease‑modifying potential over 78 weeks. |
+| **NCT03657745** | Observational | RECRUITING | Not available | 50 | Not available | Alzheimer Disease; Mild Cognitive Impairment; Dementia; Cognition Disorders in Old Age; Cognitive Decline; Cognitive Deterioration | Observational study of 40 Hz light combined with cognitive therapy in AD patients. |
+| **NCT05145881** | Interventional (Randomized, Double‑Blind) | COMPLETED | Not available | 50 | 95 | Alzheimer Disease | Randomized, double‑blind trial evaluating the clinical effect of probiotics in AD. |
+| **NCT04619420** | Interventional (Randomized, Double‑Blind, Placebo‑Controlled) | TERMINATED | PHASE2 | 55 | 80 | Alzheimer Disease; Cognitive Dysfunction; Dementia | Phase 2 study of anti‑tau monoclonal antibody JNJ‑63733657, measuring clinical decline via the Integrated Alzheimer’s Disease Rating Scale (iADRS). |
+| **NCT07122856** | Observational | NOT_YET_RECRUITING | Not available | Not available | Not available | Alzheimer Disease; Mini‑Mental State Examination; Cognitive Dysfunction; Neuropsychological Tests; Caregivers | Retrospective review of medical records to identify factors predicting rapid MMSE decline over 12 months. |
+
+### Notes
+- **Recruitment status** is taken from the snapshot provided in the retrieved data and may have changed since that capture.  
+- The **actual conditions** listed are those recorded for each study; the “Searched Condition” (Alzheimer Disease) was used only to locate the trials.  
+- No additional age limits, phases, or eligibility criteria are available beyond what is supplied.  
+- The table distinguishes interventional studies (which test a specific treatment) from observational studies (which observe outcomes without assigning interventions).  
+
+This overview is for educational purposes only and does not constitute clinical advice or a recommendation for any specific trial.
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT06964230
+Title: A Phase 2b/3 Randomized, Double-Blind, Placebo-Controlled Multi-Center Study to Evaluate the Safety and Efficacy of T3D-959 in Subjects With Mild-to-Moderate Alzheimer's Disease
+Actual Conditions: Alzheimer's Disease
+Recruitment Status: NOT_YET_RECRUITING
+Study Type: INTERVENTIONAL
+Phase: PHASE2; PHASE3
+Age Range: 50 Years - 90 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT06964230
+
+
+NCT ID: NCT03657745
+Title: An Observational Trial of Alzheimer's Disease Treatment With Combination of 40Hz Light and Cognitive Therapy
+Actual Conditions: Alzheimer Disease; Mild Cognitive Impairment; Dementia; Cognition Disorders in Old Age; Cognitive Decline; Cognitive Deterioration
+Recruitment Status: RECRUITING
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 50 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT03657745
+
+
+NCT ID: NCT05145881
+Title: Evaluation of Clinical Effect of Probiotics in Alzheimer's Disease: a Randomized, Double-blind Clinical Trial
+Actual Conditions: Alzheimer Disease
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 50 Years - 95 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT05145881
+
+
+NCT ID: NCT04619420
+Title: A Randomized, Double-blind, Placebo-controlled, Parallel-group, Multicenter Study With a Long-Term Extension Treatment Period to Assess the Efficacy and Safety of JNJ-63733657, an Anti-tau Monoclonal Antibody, in Participants With Early Alzheimer's Disease
+Actual Conditions: Alzheimer Disease; Cognitive Dysfunction; Dementia
+Recruitment Status: TERMINATED
+Study Type: INTERVENTIONAL
+Phase: PHASE2
+Age Range: 55 Years - 80 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT04619420
+
+
+NCT ID: NCT07122856
+Title: Predictive Factors for Initial MMSE Score and Rapid Decline in Alzheimer's Disease Patients
+Actual Conditions: Alzheimer Disease; Mini-Mental State Examination; Cognitive Dysfunction; Neuropsychological Tests; Caregivers
+Recruitment Status: NOT_YET_RECRUITING
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: Not available - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT07122856
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
+RAG_Q6,Chronic Kidney Disease,Find clinical trials related to chronic kidney disease treatment and progression.,5,NCT03929900; NCT07585695; NCT04500665; NCT06458465; NCT01574365,"KoreaN Cohort Study for Outcome in Patients With Chronic Kidney Disease: A Longitudinal Cohort Study of the Chronic Kidney Disease (KNOW-CKD), Phase II Study | Screening for Coronary Artery Disease in Patients With Chronic Kidney Disease | Anti-Inflammatory Treatment of Uremic Cardiomyopathy With Colchicine | Clinical Study Evaluating the Impact of Curcumin and Pentoxiphylline on Patients With Chronic Kidney Disease | A Phase 2 Study of RTA 402 in CKD Patients With Type 2 Diabetes Mellitus","
+TRIALLENS SEARCH RESULTS
+
+Selected condition: Chronic Kidney Disease
+Exact recruitment status: All
+
+LLM-GENERATED OVERVIEW
+----------------------------------------
+**Overview of Retrieved Clinical Trials for Chronic Kidney Disease**
+
+| NCT ID | Title | Actual Conditions (as listed) | Recruitment Status | Study Type | Phase | Age Range | Sex |
+|--------|-------|--------------------------------|--------------------|------------|-------|-----------|-----|
+| **NCT03929900** | KoreaN Cohort Study for Outcome in Patients With Chronic Kidney Disease: A Longitudinal Cohort Study of the Chronic Kidney Disease (KNOW‑CKD), Phase II Study | Chronic Kidney Diseases | RECRUITING | OBSERVATIONAL | Not available | 45 – 79 years | ALL |
+| **NCT07585695** | Screening for Coronary Artery Disease in Patients With Chronic Kidney Disease | Chronic Kidney Disease (CKD); Coronary Artery Disease (CAD) | NOT_YET_RECRUITING | OBSERVATIONAL | Not available | 18 – Not available | ALL |
+| **NCT04500665** | Anti‑Inflammatory Treatment of Uremic Cardiomyopathy With Colchicine | Chronic Kidney Diseases | RECRUITING | INTERVENTIONAL | PHASE 2 | 21 – 80 years | ALL |
+| **NCT06458465** | Clinical Study Evaluating the Impact of Curcumin and Pentoxiphylline on Patients With Chronic Kidney Disease | Chronic Kidney Disease | COMPLETED | INTERVENTIONAL | Not available | 18 – 80 years | ALL |
+| **NCT01574365** | A Phase 2 Study of RTA 402 in CKD Patients With Type 2 Diabetes Mellitus | Chronic Kidney Disease; Type 2 Diabetes | TERMINATED | INTERVENTIONAL | PHASE 2 | 20 – 79 years | ALL |
+
+**Key Points**
+
+- The **searched condition** for all trials was *Chronic Kidney Disease*.  
+- The **actual conditions** listed above are the specific diagnoses each study enrolled; they may include additional conditions (e.g., Coronary Artery Disease, Type 2 Diabetes).  
+- **Recruitment status** is taken directly from the supplied data and represents a snapshot; it may have changed since the data were captured.  
+- **Study type** distinguishes observational studies (e.g., NCT03929900, NCT07585695) from interventional studies (e.g., NCT04500665, NCT06458465, NCT01574365).  
+- **Phase** information is only available for the interventional studies that explicitly list it; otherwise it is noted as “Not available.”  
+- **Age ranges** and **sex** eligibility are reported exactly as supplied.  
+- Any missing details (e.g., phase, maximum age for NCT07585695) are indicated as “Not available” or “Not available” in the table.  
+
+*This summary is for educational purposes only and does not constitute clinical advice.*
+
+TRIAL DETAILS FROM COLLECTED DATA
+----------------------------------------
+
+NCT ID: NCT03929900
+Title: KoreaN Cohort Study for Outcome in Patients With Chronic Kidney Disease: A Longitudinal Cohort Study of the Chronic Kidney Disease (KNOW-CKD), Phase II Study
+Actual Conditions: Chronic Kidney Diseases
+Recruitment Status: RECRUITING
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 45 Years - 79 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT03929900
+
+
+NCT ID: NCT07585695
+Title: Screening for Coronary Artery Disease in Patients With Chronic Kidney Disease
+Actual Conditions: Chronic Kidney Disease (CKD); Coronary Artery Disease (CAD)
+Recruitment Status: NOT_YET_RECRUITING
+Study Type: OBSERVATIONAL
+Phase: Not available
+Age Range: 18 Years - Not available
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT07585695
+
+
+NCT ID: NCT04500665
+Title: Anti-Inflammatory Treatment of Uremic Cardiomyopathy With Colchicine
+Actual Conditions: Chronic Kidney Diseases
+Recruitment Status: RECRUITING
+Study Type: INTERVENTIONAL
+Phase: PHASE2
+Age Range: 21 Years - 80 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT04500665
+
+
+NCT ID: NCT06458465
+Title: Clinical Study Evaluating the Impact of Curcumin and Pentoxiphylline on Patients With Chronic Kidney Disease
+Actual Conditions: Chronic Kidney Disease
+Recruitment Status: COMPLETED
+Study Type: INTERVENTIONAL
+Phase: Not available
+Age Range: 18 Years - 80 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT06458465
+
+
+NCT ID: NCT01574365
+Title: A Phase 2 Study of RTA 402 in CKD Patients With Type 2 Diabetes Mellitus
+Actual Conditions: Chronic Kidney Disease; Type 2 Diabetes
+Recruitment Status: TERMINATED
+Study Type: INTERVENTIONAL
+Phase: PHASE2
+Age Range: 20 Years - 79 Years
+Sex: ALL
+Source: https://clinicaltrials.gov/study/NCT01574365
+
+
+IMPORTANT INFORMATION:
+Recruitment status reflects the collected dataset
+and may have changed. Verify current details on
+ClinicalTrials.gov before making decisions.
+
+TrialLens is an educational discovery prototype.
+It does not diagnose, prescribe, or determine
+clinical eligibility.
+",,,,,,
