@@ -308,4 +308,8 @@ Trial data comes from [ClinicalTrials.gov](https://clinicaltrials.gov), a public
 
 ## Author
 
+<<<<<<< HEAD
 **Shahana S**, [GitHub](https://github.com/Shahana2421)
+=======
+**Shahana S**, [GitHub](https://github.com/Shahana2421)
+>>>>>>> 60a41ed (Add TrialLens README and application screenshots)
